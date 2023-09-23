@@ -1,0 +1,24 @@
+insert into currency_exchange_rate
+(ID, exchange_from, exchange_to, exchange_Rate)
+values(1001,'USD','INR',83);
+
+insert into currency_exchange_rate
+(ID, exchange_from, exchange_to, exchange_Rate)
+values(1002,'EURO','INR',88);
+
+
+insert into currency_exchange_rate
+(ID, exchange_from, exchange_to, exchange_Rate)
+values(1003,'GBP','INR',102);
+
+insert into currency_exchange_rate
+(ID, exchange_from, exchange_to, exchange_Rate)
+values(1004,'MYR','1NR',17);
+
+insert into currency_exchange_rate
+(ID, exchange_from, exchange_to, exchange_Rate)
+values(1005,'THB','1NR',2);
+
+insert into currency_exchange_rate
+(ID, exchange_from, exchange_to, exchange_Rate)
+values(1006,'AED','1NR',22);

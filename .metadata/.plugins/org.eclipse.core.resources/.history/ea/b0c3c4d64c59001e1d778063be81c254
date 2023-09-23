@@ -1,0 +1,26 @@
+spring.cloud.config.enabled=false
+spring.cloud.config.uri=no-server-available
+
+spring.application.name=exchange-rate-service
+server.port=8003
+
+spring.h2.console.enabled=true
+spring.jpa.show-sql=true
+
+spring.datasource.initialization-mode=always
+
+# Custom H2 Configuration
+spring.datasource.url=jdbc:h2:mem:my-custom-db
+spring.datasource.driverClassName=org.h2.Driver
+spring.datasource.username=sa
+spring.datasource.password=password
+spring.jpa.hibernate.ddl-auto=update
+
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.H2Dialect
+spring.datasource.initialize=true
+
+
+
+
+
+

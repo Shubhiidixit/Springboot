@@ -1,0 +1,5 @@
+spring.cloud.config.enabled=false
+spring.cloud.config.uri=no-server-available
+
+spring.application.name=exchange-calculator-service
+server.port=8100

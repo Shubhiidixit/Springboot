@@ -1,0 +1,5 @@
+spring.cloud.config.enabled=false
+spring.cloud.config.uri=no-server-available
+
+spring.application.name=currency-conversion-service
+server.port=8100

@@ -1,0 +1,8 @@
+-- For H2 and MySQL
+CREATE TABLE currency_exchange_rate (
+    ID INT AUTO_INCREMENT PRIMARY KEY,
+    exchange_from VARCHAR(255),
+    exchange_to VARCHAR(255),
+    Exchange_Rate INT
+);
+-- Add other tables and schema-related statements as needed
