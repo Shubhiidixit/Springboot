@@ -2,7 +2,7 @@
 
 This is the practice repository for Spring Boot, a Java-based framework for building web applications. The code for this practice repository can be found in the `master` branch. 
 
-## Introduction to Spring Boot
+## Introduction 
 
 **Spring Boot** is an open-source Java-based framework used to create production-grade Spring-based applications with minimal setup. It simplifies the deployment and production readiness of your applications by providing a set of conventions and ready-to-use configurations.
 
